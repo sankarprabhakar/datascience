@@ -1,6 +1,6 @@
 # Machine learning notes
 
-##Types of machine learning
+## Types of machine learning
 1. Supervised : Training set will have inputs and outputs.  Algorithm learns the relation between input and output and helps in predicting an output for a new set of input values.
 	* Regression  : Linear Regression
 	* Classification : Logistic Regression
